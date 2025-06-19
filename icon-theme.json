@@ -40,6 +40,12 @@
     "geminiFile": { "iconPath": "./icons/file-gemini.svg" },
     "changelogFile": { "iconPath": "./icons/file-changelog.svg" },
     "robloxFile": { "iconPath": "./icons/file-roblox.svg" },
+    "msixFile": { "iconPath": "./icons/file-msix.svg" },
+    "jsonFile": { "iconPath": "./icons/file-json.svg" },
+    "jsconfigFile": { "iconPath": "./icons/file-jsconfig.svg" },
+    "eslintFile": { "iconPath": "./icons/file-eslint.svg"},
+    "licenseFile": { "iconPath": "./icons/file-license.svg"},
+    "markdownFile": { "iconPath": "./icons/file-markdown.svg"}
   },
   "fileExtensions": {
     "c": "cFile",
@@ -47,6 +53,7 @@
     "i": "cFile",
     "o": "oFile",
     "js": "jsFile",
+    "mjs": "jsFile",
     "3d": "3dFile",
     "iso": "isoFile",
     "img": "isoFile",
@@ -86,7 +93,6 @@
     "ipa": "installFile",
     "rpm": "installFile",
     "appx": "installFile",
-    "msix": "installFile",
     "flatpak": "installFile",
     "snap": "installFile",
     "run": "installFile",
@@ -137,6 +143,9 @@
     "rbxlx": "robloxFile",
     "rbxm": "robloxFile",
     "rbxmx": "robloxFile",
+    "msix": "msixFile",
+    "json": "jsonFile",
+    "md": "markdownFile"
   },
   "fileNames": {
     "README.md": "readmeFile",
@@ -144,13 +153,18 @@
     "package-lock.json": "nodejsFile",
     "package.json": "nodejsFile",
     "changelog.md": "changelogFile",
+    "jsconfig.json": "jsconfigFile",
+    "eslint.config.mjs": "eslintFile",
+    "LICENSE": "licenseFile"
   },
   "folderNames": {
     ".github": "folderGithub",
+    "github": "folderGithub",
     "root": "folderRoot"
   },
   "folderNamesExpanded": {
     ".github": "folderGithubOpen",
+    "github": "folderGithubOpen",
     "root": "folderRoot"
   },
   "folder": "folderDefault",

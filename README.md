@@ -43,6 +43,7 @@ npm install dasial-icons
 | <img src="images/file-cs.png" width="30px">                  | Cs                          |
 | <img src="images/file-disk.png" width="30px">                | Disk                        |
 | <img src="images/file-docker.png" width="30px">              | Docker                      |
+| <img src="images/file-eslint.png" width="30px">              | Eslint                      |
 | <img src="images/file-gemini.png" width="30px">              | Gemini                      |
 | <img src="images/file-git.png" width="30px">                 | Git                         |
 | <img src="images/file-h.png" width="30px">                   | H                           |
@@ -55,10 +56,13 @@ npm install dasial-icons
 | <img src="images/file-istanbul.png" width="30px">            | Istanbul                    |
 | <img src="images/file-java.png" width="30px">                | Java                        |
 | <img src="images/file-js.png" width="30px">                  | Javascript                  |
+| <img src="images/file-jsconfig.png" width="30px">            | Js Config                   |
 | <img src="images/file-json.png" width="30px">                | Json                        |
 | <img src="images/file-lib.png" width="30px">                 | Library                     |
+| <img src="images/file-license.png" width="30px">             | License                     |
 | <img src="images/file-makefile.png" width="30px">            | Makefile                    |
 | <img src="images/file-minecraft.png" width="30px">           | Minecraft                   |
+| <img src="images/file-msix.png" width="30px">                | MSIX                        |
 | <img src="images/file-nodejs.png" width="30px">              | Node JS                     |
 | <img src="images/file-npm.png" width="30px">                 | NPM                         |
 | <img src="images/file-objectivec.png" width="30px">          | Objective C                 |
