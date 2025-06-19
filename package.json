@@ -4,6 +4,10 @@
   "description": "A modern icon set for VSCode",
   "version": "0.0.1",
   "icon": "./images/icon.png",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dasial-extensions/dasial-icons-icon-theme.git"
+  },
   "engines": {
     "vscode": "^1.60.0"
   },
@@ -17,6 +21,7 @@
         "label": "Dasial Icons",
         "path": "./icon-theme.json"
       }
+      
     ]
   }
 }
