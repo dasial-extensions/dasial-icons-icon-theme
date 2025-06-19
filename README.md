@@ -65,6 +65,7 @@ npm install dasial-icons
 | <img src="icons/file-powershell.svg" width="30px">           | Powershell                  |
 | <img src="icons/file-readme.svg" width="30px">               | Readme                      |
 | <img src="icons/file-registry.svg" width="30px">             | Registry                    |
+| <img src="icons/file-roblox.svg" width="30px">               | Roblox                      |
 | <img src="icons/file-sln.svg" width="30px">                  | Sln                         |
 | <img src="icons/file-svg.svg" width="30px">                  | Svg                         |
 | <img src="icons/file-swift.svg" width="30px">                | Swift                       |
