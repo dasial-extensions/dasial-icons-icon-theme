@@ -8,6 +8,11 @@
     "type": "git",
     "url": "https://github.com/dasial-extensions/dasial-icons-icon-theme.git"
   },
+  "author": {
+    "name": "Dasial Extensions",
+    "email": "dasialextensions@gmail.com",
+    "url": "https://github.com/dasial-extensions"
+  },
   "engines": {
     "vscode": "^1.60.0"
   },
@@ -21,7 +26,6 @@
         "label": "Dasial Icons",
         "path": "./icon-theme.json"
       }
-      
     ]
   }
 }
