@@ -1,0 +1,22 @@
+{
+  "name": "dasial-icons",
+  "displayName": "Dasial Icons",
+  "description": "A modern icon set for VSCode",
+  "version": "0.0.1",
+  "icon": "./images/icon.png",
+  "engines": {
+    "vscode": "^1.60.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "iconThemes": [
+      {
+        "id": "dasial-icons",
+        "label": "Dasial Icons",
+        "path": "./icon-theme.json"
+      }
+    ]
+  }
+}

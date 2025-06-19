@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns="http://www.w3.org/2000/svg"
+   width="50mm"
+   height="50mm"
+   viewBox="0 0 50 50"
+   version="1.1">
+  <g id="layer1">
+    <path
+       id="path1"
+       style="fill:none;stroke:#b7b7b7;stroke-width:17.833"
+       d="M 40.680558,25.004997 A 15.588529,15.588498 0 0 1 25.09203,40.593495 15.588529,15.588498 0 0 1 9.5035009,25.004997 15.588529,15.588498 0 0 1 25.09203,9.4164991 15.588529,15.588498 0 0 1 40.680558,25.004997 Z" />
+  </g>
+</svg>
