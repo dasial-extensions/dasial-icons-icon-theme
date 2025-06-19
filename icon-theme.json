@@ -165,6 +165,6 @@
     "root": "folderRoot"
   },
   "folder": "folderDefault",
-  "folderExpanded": "folderDefaultOpen"
+  "folderExpanded": "folderDefaultOpen",
   "file": "defaultFile"
 }
