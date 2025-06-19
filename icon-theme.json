@@ -38,7 +38,8 @@
     "consoleFile": { "iconPath": "./icons/file-console.svg" },
     "copilotFile": { "iconPath": "./icons/file-copilot.svg" },
     "geminiFile": { "iconPath": "./icons/file-gemini.svg" },
-    "changelogFile": { "iconPath": "./icons/file-changelog.svg" }
+    "changelogFile": { "iconPath": "./icons/file-changelog.svg" },
+    "robloxFile": { "iconPath": "./icons/file-roblox.svg" },
   },
   "fileExtensions": {
     "c": "cFile",
@@ -131,7 +132,11 @@
     "copilotrc": "copilotFile",
     "copilot-ignore": "copilotFile",
     "geminirc": "geminiFile",
-    "geminiignore": "geminiFile"
+    "geminiignore": "geminiFile",
+    "rbxl": "robloxFile",
+    "rbxlx": "robloxFile",
+    "rbxm": "robloxFile",
+    "rbxmx": "robloxFile",
   },
   "fileNames": {
     ".vscodeignore": "vscodeFile",
@@ -149,7 +154,7 @@
     ".copilot": "copilotFile",
     ".copilotrc": "copilotFile",
     ".copilot-ignore": "copilotFile",
-    "changelog.md": "changelogFile"
+    "changelog.md": "changelogFile",
   },
   "folderNames": {
     ".github": "folderGithub",
