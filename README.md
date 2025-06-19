@@ -27,7 +27,7 @@ npm install dasial-icons
 
 | File Icons                                                   | File Type                   |
 | -------------------------------------------------------------| ----------------------------|
-| <a href="https://raw.githubusercontent.com/dasial-extension/dasial-icons-icon-theme/master/icons/default-file.svg"><img src="icons/default-file.svg" width="30px"></a>       | Default                     |
+| <img src="icons/default-file.svg" width="30px">              | Default                     |
 | <img src="icons/file-3d.svg" width="30px">                   | 3d                          |
 | <img src="icons/file-app.svg" width="30px">                  | App                         |
 | <img src="icons/file-apple.svg" width="30px">                | Applescript                 |
