@@ -6,6 +6,7 @@
     "folderGithubOpen": { "iconPath": "./icons/folder-github-opened.svg"},
     "folderRoot": { "iconPath": "./icons/folder-root.svg" },
     "folderRootOpen": { "iconPath": "./icons/folder-root-opened.svg"},
+    "defaultFile": { "iconPath": "./icons/default-file.svg" },
     "cFile": { "iconPath": "./icons/file-c.svg" },
     "oFile": { "iconPath": "./icons/file-cobject.svg" },
     "jsFile": { "iconPath": "./icons/file-js.svg" },
@@ -160,4 +161,5 @@
   },
   "folder": "folderDefault",
   "folderExpanded": "folderDefaultOpen"
+  "file": "defaultFile"
 }
