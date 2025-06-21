@@ -40,7 +40,7 @@
     "geminiFile": { "iconPath": "./icons/file-gemini.svg" },
     "changelogFile": { "iconPath": "./icons/file-changelog.svg" },
     "robloxFile": { "iconPath": "./icons/file-roblox.svg" },
-    "msixFile": { "iconPath": "./icons/file-msix.svg" },
+    "vsixFile": { "iconPath": "./icons/file-vsix.svg" },
     "jsonFile": { "iconPath": "./icons/file-json.svg" },
     "jsconfigFile": { "iconPath": "./icons/file-jsconfig.svg" },
     "eslintFile": { "iconPath": "./icons/file-eslint.svg"},
@@ -143,7 +143,7 @@
     "rbxlx": "robloxFile",
     "rbxm": "robloxFile",
     "rbxmx": "robloxFile",
-    "msix": "msixFile",
+    "vsix": "vsixFile",
     "json": "jsonFile",
     "md": "markdownFile"
   },
