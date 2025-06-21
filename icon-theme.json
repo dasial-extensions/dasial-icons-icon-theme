@@ -45,7 +45,8 @@
     "jsconfigFile": { "iconPath": "./icons/file-jsconfig.svg" },
     "eslintFile": { "iconPath": "./icons/file-eslint.svg"},
     "licenseFile": { "iconPath": "./icons/file-license.svg"},
-    "markdownFile": { "iconPath": "./icons/file-markdown.svg"}
+    "markdownFile": { "iconPath": "./icons/file-markdown.svg"},
+    "faviconFile": { "iconPath": "./icons/file-favicon.svg"}
   },
   "fileExtensions": {
     "c": "cFile",
@@ -145,7 +146,10 @@
     "rbxmx": "robloxFile",
     "vsix": "vsixFile",
     "json": "jsonFile",
-    "md": "markdownFile"
+    "md": "markdownFile",
+    "ico": "faviconFile",
+    "icns": "faviconFile",
+    "xpm": "faviconFile"
   },
   "fileNames": {
     "README.md": "readmeFile",
