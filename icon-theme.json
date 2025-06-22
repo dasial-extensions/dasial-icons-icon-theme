@@ -116,6 +116,7 @@
     "htm": "htmlFile",
     "hta": "htmlFile",
     "gitignore": "gitFile",
+    "gitattributes": "gitFile",
     "npmrc": "npmFile",
     "dockerignore": "dockerFile",
     "mcworld": "minecraftFile",
